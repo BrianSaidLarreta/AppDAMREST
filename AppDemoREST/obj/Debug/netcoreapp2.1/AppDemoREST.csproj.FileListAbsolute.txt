@@ -1,0 +1,46 @@
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.deps.json
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.runtimeconfig.json
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.runtimeconfig.dev.json
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.dll
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.pdb
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csprojAssemblyReference.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorAssemblyInfo.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorAssemblyInfo.cs
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.AssemblyInfo.cs
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorTargetAssemblyInfo.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.dll
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.pdb
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.Views.dll
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.Views.pdb
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.TagHelpers.input.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.TagHelpers.output.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorCoreGenerate.cache
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\Razor\Views\FicIndex\Index.g.cshtml.cs
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorTargetAssemblyInfo.cs
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.Views.pdb
+C:\Users\Miguel Angel\source\repos\AppDemoREST\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csproj.CopyComplete
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.deps.json
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.runtimeconfig.json
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.runtimeconfig.dev.json
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.dll
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.pdb
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.Views.dll
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\bin\Debug\netcoreapp2.1\AppDemoREST.Views.pdb
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csprojAssemblyReference.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csproj.CoreCompileInputs.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorAssemblyInfo.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorAssemblyInfo.cs
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.AssemblyInfoInputs.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.AssemblyInfo.cs
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.TagHelpers.input.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.TagHelpers.output.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorCoreGenerate.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\Razor\Views\FicIndex\Index.g.cshtml.cs
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorTargetAssemblyInfo.cache
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.RazorTargetAssemblyInfo.cs
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.Views.pdb
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.dll
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.pdb
+D:\8VO\MULTIPLATAFORMA\U2\AppDemoREST1-master\AppDemoREST\obj\Debug\netcoreapp2.1\AppDemoREST.csproj.CopyComplete
