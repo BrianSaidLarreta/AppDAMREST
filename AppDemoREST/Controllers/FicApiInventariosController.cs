@@ -20,11 +20,28 @@ namespace AppDemoREST.Controllers
             FicLoDBContext = FicPaBDContext;
         }
         [HttpGet]
-        [Route("/api/inventarios")]
+        [Route("/api/inventarios/invacucon")]
         public async Task<IActionResult> FicApiGetListInventarios([FromQuery]int cedi)
         {
 
             var zt_inventarios = (from data_inv in FicLoDBContext.zt_inventarios where data_inv.IdCEDI == cedi select data_inv).ToList();
+            if (zt_inventarios.Count() > 0)
+            {
+                zt_inventarios = zt_inventarios.ToList();
+                return Ok(zt_inventarios);
+            }
+            else
+            {
+                zt_inventarios = zt_inventarios.ToList();
+                return Ok(zt_inventarios);
+            }
+        }
+        [HttpGet]
+        [Route("/api/inventarios")]
+        public async Task<IActionResult> FicApiGetListInventarios()
+        {
+
+            var zt_inventarios = (from data_inv in FicLoDBContext.zt_inventarios select data_inv).ToList();
             if (zt_inventarios.Count() > 0)
             {
                 zt_inventarios = zt_inventarios.ToList();
