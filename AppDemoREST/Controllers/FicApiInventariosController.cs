@@ -20,7 +20,7 @@ namespace AppDemoREST.Controllers
             FicLoDBContext = FicPaBDContext;
         }
         [HttpGet]
-        [Route("/api/inventarios/invacucon")]
+        [Route("/api/inventarios")]
         public async Task<IActionResult> FicApiGetListInventarios([FromQuery]int cedi)
         {
 
@@ -37,7 +37,7 @@ namespace AppDemoREST.Controllers
             }
         }
         [HttpPost]
-        [Route("/api/inventarios/invacucon")]
+        [Route("/api/inventarios")]
         public async Task<IActionResult> FicApiSetInventario([FromForm] int id, [FromForm]short cedi, [FromForm]string sap, [FromForm] DateTime fecha, [FromForm] string user)
         {
             Console.WriteLine(id);
@@ -55,7 +55,7 @@ namespace AppDemoREST.Controllers
 
         }
         [HttpDelete]
-        [Route("/api/inventarios/invacucon")]
+        [Route("/api/inventarios")]
         public async Task<IActionResult> FicApiDeleteInventario([FromQuery] int id)
         {
             zt_inventarios inventario = new zt_inventarios();
@@ -74,7 +74,7 @@ namespace AppDemoREST.Controllers
             }
         }
         [HttpPut]
-        [Route("/api/inventarios/invacucon")]
+        [Route("/api/inventarios")]
         public async Task<IActionResult> FicApiUpdateInventario([FromForm] int id, [FromForm]string sap, [FromForm] DateTime fecha, [FromForm] string user)
         {
             try
